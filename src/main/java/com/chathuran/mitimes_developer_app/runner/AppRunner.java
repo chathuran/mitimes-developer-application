@@ -60,7 +60,7 @@ public class AppRunner implements CommandLineRunner {
         body.put("name", "Chathuran Dannoruwa");
         body.put("email", "chathuran.dc@gmail.com");
         body.put("job_title", "Software Engineer");
-        body.put("final_attempt", false);
+        body.put("final_attempt", true);
 
         Map<String, Object> extraInfo = new LinkedHashMap<>();
         extraInfo.put("experience_years", 8);
