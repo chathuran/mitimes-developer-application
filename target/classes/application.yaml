@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: mitimes-developer-app
+
+api:
+  secret-url: https://au.mitimes.com/careers/apply/secret
+  apply-url: https://au.mitimes.com/careers/apply
